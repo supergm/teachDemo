@@ -11,6 +11,8 @@
 
 // 应用入口文件
 
+echo 'this is development';
+
 echo 'this is demo';
 
 // 检测PHP环境
